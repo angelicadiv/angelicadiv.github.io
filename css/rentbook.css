@@ -71,15 +71,11 @@ form span{
 }
 
 .btn{
-  font-size: 22px;
   cursor: pointer;
-  width: 200px;
+  width: 150px;
   height: 40px;
-  text-decoration: none;
   background: linear-gradient(171.94deg,#FF8811, #C65730);
   border-color: #FF8811;
-  color: white;
-  font-weight: bold;
   border-radius: 10px;
   margin-top: 50px;
 }
@@ -89,4 +85,17 @@ form span{
   border-color: #ae441e;
   box-shadow: #ae441e;
   text-shadow: #2A2A34;
+}
+
+.btn a{
+  text-decoration: none;
+}
+
+.btn p{
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 22px;
+  text-align: center;
+  padding-top: 5px;
 }
