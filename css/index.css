@@ -98,9 +98,10 @@ body{
   font-size: 24px;
   cursor: pointer;
   text-decoration: none;
-  background: linear-gradient(171.94deg,#FF8811, #C65730);
-  border-color: #FF8811;
-  color: white;
+  background: white;
+  /* linear-gradient(171.94deg,#FF8811, #C65730); */
+  border-color: blacks;
+  color: #FF8811;
   font-weight: bold;
 }
 
@@ -129,7 +130,7 @@ body{
 
 .type-scooter img,
 .type-maxi img{
-  background: #FF8811;
+  background: #ffffff;
   box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 25px;
   margin: 20px 0px;
